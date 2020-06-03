@@ -1,0 +1,17 @@
+<templateSet group="user">
+  <template name="sop" value="System.out.println($END$);" description="分行打印快捷键" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="prm" value="private void $END$() {&#10;        }" description="新建privite方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pum" value="public void $END$() {&#10;}" description="新建public方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

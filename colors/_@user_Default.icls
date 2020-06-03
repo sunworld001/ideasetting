@@ -1,0 +1,27 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-09-26T09:55:42</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.2.5.0.0</property>
+    <property name="modified">2020-04-22T19:40:08</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="cce8cf" />
+    <option name="READONLY_BACKGROUND" value="" />
+  </colors>
+  <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ff99d3" />
+        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="cce8cf" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
