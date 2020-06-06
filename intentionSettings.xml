@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Declaration/Generate missed test methods" />
-    <ignoreAction name="Java/Declaration/Generate overloaded method with default parameter values" />
-    <ignoreAction name="Java/Modifiers/Make Private" />
-  </component>
-</application>

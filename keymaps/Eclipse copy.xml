@@ -1,20 +1,10 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-  </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="HippieCompletion" />
-  <action id="IntroduceVariable">
-    <keyboard-shortcut first-keystroke="ctrl numpad1" />
-  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
@@ -25,9 +15,6 @@
   <action id="MoveStatementUp" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
-  <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="alt period" />
-  </action>
   <action id="UpdateRunningApplication" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="android.deploy.ApplyChanges">
