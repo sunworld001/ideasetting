@@ -1,0 +1,12 @@
+<templateSet group="selfGetString">
+  <template name="str" value="String" description="提示string" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ss" value="String s" description="快速创建一个string字符串" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
