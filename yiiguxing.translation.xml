@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Alias For" />
       <item value="Configuration" />
       <item value="annotation" />
       <item value="proxy Bean Methods" />
       <item value="base Packages" />
       <item value="Component Scan" />
       <item value="scan Base Package Classes" />
-      <item value="Alias For" />
       <item value="scan Base Packages" />
       <item value="Target VM is not paused by breakpoint request. Evaluation of methods is not possible in this mode" />
       <item value="attach" />
