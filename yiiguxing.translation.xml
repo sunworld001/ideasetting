@@ -1,0 +1,21 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="artifact Id" />
+      <item value="runtime" />
+      <item value="framework" />
+      <item value="springframework" />
+      <item value="goal" />
+      <item value="Automatic word selection. Automatic word division. Word book." />
+      <item value="Features" />
+      <item value="configuration" />
+      <item value="fork" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
+      </map>
+    </option>
+  </component>
+</application>
