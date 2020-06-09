@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dialog" />
+      <item value="You may setup Docker deployment run configuration for the following file(s):" />
+      <item value="Dockerfile" />
       <item value="Integer" />
       <item value="It is a compile-time error for a single {@code ElementType} constant to * appear more than once in an {@code @Target} annotation. For example, the * following {@code @Target} meta-annotation is illegal: * &lt;pre&gt;" />
       <item value="get Age" />
@@ -37,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
