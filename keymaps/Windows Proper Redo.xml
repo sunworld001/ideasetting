@@ -1,4 +1,8 @@
 <keymap version="1" name="Windows Proper Redo" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -23,6 +27,9 @@
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
