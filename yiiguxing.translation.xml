@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dock pinned" />
+      <item value="dock" />
       <item value="dialog" />
       <item value="You may setup Docker deployment run configuration for the following file(s):" />
       <item value="Dockerfile" />
