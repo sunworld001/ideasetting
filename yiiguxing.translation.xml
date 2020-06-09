@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flatten" />
       <item value="Alias For" />
       <item value="Configuration" />
       <item value="annotation" />
@@ -24,14 +25,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
+        <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="75f0051497928dec" />
