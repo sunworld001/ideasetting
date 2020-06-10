@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Print GC Date Stamps" />
+      <item value="Xloggc" />
       <item value="Par New" />
       <item value="Pause" />
       <item value="Concurrent" />
@@ -50,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
