@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reserved" />
+      <item value="verify" />
+      <item value="none" />
+      <item value="gc" />
+      <item value="XX" />
       <item value="Print GC Date Stamps" />
       <item value="Xloggc" />
       <item value="Par New" />
@@ -46,14 +51,11 @@
       <item value="springframework" />
       <item value="goal" />
       <item value="Automatic word selection. Automatic word division. Word book." />
-      <item value="Features" />
-      <item value="configuration" />
-      <item value="fork" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="38" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
