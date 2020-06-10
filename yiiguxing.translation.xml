@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="artifact Id" />
+      <item value="model Version" />
       <item value="reserved" />
       <item value="verify" />
       <item value="none" />
@@ -45,17 +47,15 @@
       <item value="Target VM is not paused by breakpoint request. Evaluation of methods is not possible in this mode" />
       <item value="attach" />
       <item value="attacth" />
-      <item value="artifact Id" />
       <item value="runtime" />
       <item value="framework" />
       <item value="springframework" />
       <item value="goal" />
-      <item value="Automatic word selection. Automatic word division. Word book." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
