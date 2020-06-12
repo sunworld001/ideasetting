@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Absolute" />
       <item value="Is Primitive" />
       <item value="dialect" />
       <item value="Absent" />
@@ -50,12 +51,11 @@
       <item value="scan Base Packages" />
       <item value="Target VM is not paused by breakpoint request. Evaluation of methods is not possible in this mode" />
       <item value="attach" />
-      <item value="attacth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
