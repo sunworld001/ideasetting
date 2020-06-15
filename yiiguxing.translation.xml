@@ -1,0 +1,72 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="concurrency" />
+      <item value="String Buffer" />
+      <item value="interp" />
+      <item value="partially" />
+      <item value="recursively" />
+      <item value="include" />
+      <item value="ballon" />
+      <item value="scope" />
+      <item value="decompiler" />
+      <item value="Fernflower" />
+      <item value="bridge" />
+      <item value="unmarshaler" />
+      <item value="unmarshal" />
+      <item value="create Unmarshaller" />
+      <item value="Unmarshaller" />
+      <item value="Unmar" />
+      <item value="resolve Name" />
+      <item value="Absolute" />
+      <item value="Is Primitive" />
+      <item value="dialect" />
+      <item value="Absent" />
+      <item value="predicate" />
+      <item value="artifact Id" />
+      <item value="model Version" />
+      <item value="reserved" />
+      <item value="verify" />
+      <item value="none" />
+      <item value="gc" />
+      <item value="XX" />
+      <item value="Print GC Date Stamps" />
+      <item value="Xloggc" />
+      <item value="Par New" />
+      <item value="Pause" />
+      <item value="Concurrent" />
+      <item value="Sweep" />
+      <item value="Preclean" />
+      <item value="Mark" />
+      <item value="Initial" />
+      <item value="Allocation Failure" />
+      <item value="dock pinned" />
+      <item value="dock" />
+      <item value="dialog" />
+      <item value="You may setup Docker deployment run configuration for the following file(s):" />
+      <item value="Dockerfile" />
+      <item value="Integer" />
+      <item value="It is a compile-time error for a single {@code ElementType} constant to * appear more than once in an {@code @Target} annotation. For example, the * following {@code @Target} meta-annotation is illegal: * &lt;pre&gt;" />
+      <item value="get Age" />
+      <item value="return" />
+      <item value="age" />
+      <item value="Where Annotations May Appear" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="56" />
+        <entry key="FRENCH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="75f0051497928dec" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
