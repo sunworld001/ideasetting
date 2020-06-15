@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String Buffer" />
+      <item value="interp" />
+      <item value="partially" />
+      <item value="recursively" />
+      <item value="include" />
       <item value="ballon" />
       <item value="scope" />
       <item value="decompiler" />
@@ -46,16 +51,11 @@
       <item value="age" />
       <item value="Where Annotations May Appear" />
       <item value="inclusive" />
-      <item value="It is a compile-time error for a single {@code ElementType} constant to * appear more than once in an {@code @Target} annotation. For example, the * following {@code @Target} meta-annotation is illegal" />
-      <item value="Element Type" />
-      <item value="ElementType" />
-      <item value="It is a compile-time error for a single {@code ElementType} constant to * appear more than once in an {@code @Target} annotation. For example, the * following {@code @Target} meta-annotation is illegal:" />
-      <item value="common" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
