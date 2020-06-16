@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TRANSACTION READ UNCOMMITTED" />
+      <item value="supported" />
+      <item value="transactions" />
+      <item value="indicating" />
+      <item value="constant" />
+      <item value="* A constant indicating that transactions are not supported." />
       <item value="atomicity" />
       <item value="concurrency" />
       <item value="String Buffer" />
@@ -45,17 +51,11 @@
       <item value="dock" />
       <item value="dialog" />
       <item value="You may setup Docker deployment run configuration for the following file(s):" />
-      <item value="Dockerfile" />
-      <item value="Integer" />
-      <item value="It is a compile-time error for a single {@code ElementType} constant to * appear more than once in an {@code @Target} annotation. For example, the * following {@code @Target} meta-annotation is illegal: * &lt;pre&gt;" />
-      <item value="get Age" />
-      <item value="return" />
-      <item value="age" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
