@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extract" />
       <item value="Gets the day-of-the-month, using local time" />
       <item value="Gets the day of the week using Universal Coordinated Time" />
       <item value="Gets the day of the week, using local time" />
@@ -50,11 +51,10 @@
       <item value="Sweep" />
       <item value="Preclean" />
       <item value="Mark" />
-      <item value="Initial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
+        <entry key="CHINESE" value="68" />
         <entry key="ENGLISH" value="68" />
         <entry key="FRENCH" value="2" />
       </map>
