@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whatever the nth capturing group matched" />
+      <item value="from" />
       <item value="introduce" />
       <item value="extract" />
       <item value="Gets the day-of-the-month, using local time" />
@@ -49,13 +51,11 @@
       <item value="Par New" />
       <item value="Pause" />
       <item value="Concurrent" />
-      <item value="Sweep" />
-      <item value="Preclean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="70" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
