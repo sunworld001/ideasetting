@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="好人" />
       <item value="install" />
       <item value="Some problems were encountered while building the effective model for nokia:nps-gyrh:jar:1.0 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: com.alibaba:fastjson:jar -&gt; version 1.2.68 vs 1.2.47 @ line 81, column 21 It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
       <item value="unique" />
@@ -50,12 +51,11 @@
       <item value="none" />
       <item value="gc" />
       <item value="XX" />
-      <item value="Print GC Date Stamps" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="73" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
