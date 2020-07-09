@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*1.iml;*~;.DS_Store;.classpath;.git;.hg;.project;.settings;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="original" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
