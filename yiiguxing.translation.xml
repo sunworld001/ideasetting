@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fires" />
       <item value="ol Map" />
       <item value="Parsed mapper file" />
       <item value="Parsed" />
@@ -50,11 +51,10 @@
       <item value="artifact Id" />
       <item value="model Version" />
       <item value="reserved" />
-      <item value="verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
+        <entry key="CHINESE" value="76" />
         <entry key="ENGLISH" value="76" />
         <entry key="FRENCH" value="2" />
       </map>
