@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="popup" />
+      <item value="pop" />
       <item value="fires" />
       <item value="ol Map" />
       <item value="Parsed mapper file" />
@@ -49,8 +51,6 @@
       <item value="Absent" />
       <item value="predicate" />
       <item value="artifact Id" />
-      <item value="model Version" />
-      <item value="reserved" />
     </histories>
     <option name="languageScores">
       <map>
