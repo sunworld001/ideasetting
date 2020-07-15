@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interaction" />
       <item value="popup" />
       <item value="pop" />
       <item value="fires" />
@@ -50,12 +51,11 @@
       <item value="dialect" />
       <item value="Absent" />
       <item value="predicate" />
-      <item value="artifact Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
