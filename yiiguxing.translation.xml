@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equals" />
+      <item value="run" />
+      <item value="Demo Application" />
       <item value="Stroke" />
       <item value="interaction" />
       <item value="popup" />
@@ -48,9 +51,6 @@
       <item value="Unmar" />
       <item value="resolve Name" />
       <item value="Absolute" />
-      <item value="Is Primitive" />
-      <item value="dialect" />
-      <item value="Absent" />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,8 +60,10 @@
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1625740651736" />
+  </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
