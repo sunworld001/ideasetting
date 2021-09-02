@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HIGHEST PRECEDENCE" />
       <item value="Captcha" />
       <item value="Data Scope" />
       <item value="set Expire Time" />
@@ -50,7 +51,6 @@
       <item value="unmarshaler" />
       <item value="unmarshal" />
       <item value="create Unmarshaller" />
-      <item value="Unmarshaller" />
     </histories>
     <option name="languageScores">
       <map>
