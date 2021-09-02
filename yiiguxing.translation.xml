@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Captcha" />
       <item value="Data Scope" />
       <item value="set Expire Time" />
       <item value="equals" />
@@ -50,7 +51,6 @@
       <item value="unmarshal" />
       <item value="create Unmarshaller" />
       <item value="Unmarshaller" />
-      <item value="Unmar" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,7 +61,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628559996074" />
+    <option name="lastTrimTime" value="1630573730699" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
