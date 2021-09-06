@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全球" />
       <item value="eager" />
       <item value="HIGHEST PRECEDENCE" />
       <item value="Captcha" />
@@ -50,7 +51,6 @@
       <item value="Fernflower" />
       <item value="bridge" />
       <item value="unmarshaler" />
-      <item value="unmarshal" />
     </histories>
     <option name="languageScores">
       <map>
