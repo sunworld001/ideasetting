@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="530" />
+    <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="Useful constant for country." />
+      <item value="Useful constant for language" />
+      <item value="&lt;dd&gt;ISO 3166 alpha-2 country code or UN M.49 numeric-3 area code. You can find a full list of valid country and region codes in the IANA Language Subtag Registry (search for &quot;Type: region&quot;). The country (region) field is case insensitive, but &lt;code&gt;Locale&lt;code&gt; always canonicalizes to upper case.&lt;dd&gt;" />
+      <item value="country" />
+      <item value="GB国家" />
+      <item value="&lt;dt&gt;&lt;a name=&quot;def_region&quot;&gt;&lt;b&gt;country (region)&lt;b&gt;&lt;a&gt;&lt;dt&gt; &lt;dd&gt;ISO 3166 alpha-2 country code or UN M.49 numeric-3 area code. You can find a full list of valid country and region codes in the IANA Language Subtag Registry (search for &quot;Type: region&quot;). The country (region) field is case insensitive, but &lt;code&gt;Locale&lt;code&gt; always canonicalizes to upper case.&lt;dd&gt;" />
       <item value="全球" />
       <item value="eager" />
       <item value="HIGHEST PRECEDENCE" />
@@ -45,12 +54,6 @@
       <item value="partially" />
       <item value="recursively" />
       <item value="include" />
-      <item value="ballon" />
-      <item value="scope" />
-      <item value="decompiler" />
-      <item value="Fernflower" />
-      <item value="bridge" />
-      <item value="unmarshaler" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,10 +64,16 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630573730699" />
+    <option name="lastTrimTime" value="1632985189145" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Consolas" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="75f0051497928dec" />
