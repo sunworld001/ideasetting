@@ -22,6 +22,14 @@
           <option name="url" value="https://gitee.com/y_project/RuoYi-Vue.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.zsnetwork.com/zhenghao/zs-nucleic-acid-platform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.zsnetwork.com" />
+          <option name="userName" value="yanxiangyang" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\eclipseWorkspace20200114" />
