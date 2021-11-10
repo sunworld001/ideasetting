@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="530" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="Nucleic" />
+      <item value="Form Nucleic Acid Data Param" />
       <item value="Sampling" />
       <item value="good" />
       <item value="1222" />
@@ -52,8 +54,6 @@
       <item value="constant" />
       <item value="* A constant indicating that transactions are not supported." />
       <item value="atomicity" />
-      <item value="concurrency" />
-      <item value="String Buffer" />
     </histories>
     <option name="languageScores">
       <map>
