@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="530" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="wrapper" />
       <item value="at java.net.DualStackPlainSocketImpl.connect0(Native Method)" />
       <item value="positivebulletin" />
       <item value="ywHsName ywIdCard ywCheckMobile ywCheckStatus ywBatch ywAcquisitionTime ywReportTime ywSamplingAgency ywCheckUnit ywSamplingLocation ywReagentManufacturer ywORFLABTarget ywNTarget ywOtherTargets ywRecheckTestTime ywRecheckOrganization" />
@@ -53,7 +54,6 @@
       <item value="Gets the hours in a date, using local time." />
       <item value="instanceof" />
       <item value="TRANSACTION READ UNCOMMITTED" />
-      <item value="supported" />
     </histories>
     <option name="languageScores">
       <map>
