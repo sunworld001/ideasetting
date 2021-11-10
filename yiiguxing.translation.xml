@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="530" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="采样机构" />
+      <item value="Sampling Mechanism" />
       <item value="Nucleic" />
       <item value="Form Nucleic Acid Data Param" />
       <item value="Sampling" />
@@ -52,8 +54,6 @@
       <item value="transactions" />
       <item value="indicating" />
       <item value="constant" />
-      <item value="* A constant indicating that transactions are not supported." />
-      <item value="atomicity" />
     </histories>
     <option name="languageScores">
       <map>
