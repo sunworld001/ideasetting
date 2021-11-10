@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="530" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="Sampling" />
+      <item value="good" />
+      <item value="1222" />
+      <item value="location" />
       <item value="Useful constant for country." />
       <item value="Useful constant for language" />
       <item value="&lt;dd&gt;ISO 3166 alpha-2 country code or UN M.49 numeric-3 area code. You can find a full list of valid country and region codes in the IANA Language Subtag Registry (search for &quot;Type: region&quot;). The country (region) field is case insensitive, but &lt;code&gt;Locale&lt;code&gt; always canonicalizes to upper case.&lt;dd&gt;" />
@@ -50,10 +54,6 @@
       <item value="atomicity" />
       <item value="concurrency" />
       <item value="String Buffer" />
-      <item value="interp" />
-      <item value="partially" />
-      <item value="recursively" />
-      <item value="include" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632985189145" />
+    <option name="lastTrimTime" value="1636508518397" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
