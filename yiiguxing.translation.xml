@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="530" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="positivebulletin" />
       <item value="ywHsName ywIdCard ywCheckMobile ywCheckStatus ywBatch ywAcquisitionTime ywReportTime ywSamplingAgency ywCheckUnit ywSamplingLocation ywReagentManufacturer ywORFLABTarget ywNTarget ywOtherTargets ywRecheckTestTime ywRecheckOrganization" />
       <item value="采样机构" />
       <item value="Sampling Mechanism" />
@@ -53,7 +54,6 @@
       <item value="TRANSACTION READ UNCOMMITTED" />
       <item value="supported" />
       <item value="transactions" />
-      <item value="indicating" />
     </histories>
     <option name="languageScores">
       <map>
