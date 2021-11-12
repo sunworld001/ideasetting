@@ -34,6 +34,10 @@
           <option name="url" value="https://gitlab.zsnetwork.com/wanghao/yqzb-view.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.zsnetwork.com/makun/health-code-detect" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\eclipseWorkspace20200114" />
