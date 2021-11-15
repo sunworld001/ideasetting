@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="530" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="cipher" />
       <item value="recognized Sum" />
       <item value="Invalid Message" />
       <item value="Valid" />
@@ -53,7 +54,6 @@
       <item value="extract" />
       <item value="Gets the day-of-the-month, using local time" />
       <item value="Gets the day of the week using Universal Coordinated Time" />
-      <item value="Gets the day of the week, using local time" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636508518397" />
+    <option name="lastTrimTime" value="1636945307963" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
