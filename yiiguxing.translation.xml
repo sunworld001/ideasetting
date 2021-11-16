@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="530" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="Tomcat" />
       <item value="cipher" />
       <item value="recognized Sum" />
       <item value="Invalid Message" />
@@ -53,7 +54,6 @@
       <item value="introduce" />
       <item value="extract" />
       <item value="Gets the day-of-the-month, using local time" />
-      <item value="Gets the day of the week using Universal Coordinated Time" />
     </histories>
     <option name="languageScores">
       <map>
