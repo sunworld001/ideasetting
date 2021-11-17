@@ -1,42 +1,6 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
-    <option name="newTranslationDialogX" value="530" />
-    <option name="newTranslationDialogY" value="293" />
     <histories>
-      <item value="s" />
-      <item value="Tomcat" />
-      <item value="cipher" />
-      <item value="recognized Sum" />
-      <item value="Invalid Message" />
-      <item value="Valid" />
-      <item value="wrapper" />
-      <item value="at java.net.DualStackPlainSocketImpl.connect0(Native Method)" />
-      <item value="positivebulletin" />
-      <item value="ywHsName ywIdCard ywCheckMobile ywCheckStatus ywBatch ywAcquisitionTime ywReportTime ywSamplingAgency ywCheckUnit ywSamplingLocation ywReagentManufacturer ywORFLABTarget ywNTarget ywOtherTargets ywRecheckTestTime ywRecheckOrganization" />
-      <item value="采样机构" />
-      <item value="Sampling Mechanism" />
-      <item value="Nucleic" />
-      <item value="Form Nucleic Acid Data Param" />
-      <item value="Sampling" />
-      <item value="good" />
-      <item value="1222" />
-      <item value="location" />
-      <item value="Useful constant for country." />
-      <item value="Useful constant for language" />
-      <item value="&lt;dd&gt;ISO 3166 alpha-2 country code or UN M.49 numeric-3 area code. You can find a full list of valid country and region codes in the IANA Language Subtag Registry (search for &quot;Type: region&quot;). The country (region) field is case insensitive, but &lt;code&gt;Locale&lt;code&gt; always canonicalizes to upper case.&lt;dd&gt;" />
-      <item value="country" />
-      <item value="GB国家" />
-      <item value="&lt;dt&gt;&lt;a name=&quot;def_region&quot;&gt;&lt;b&gt;country (region)&lt;b&gt;&lt;a&gt;&lt;dt&gt; &lt;dd&gt;ISO 3166 alpha-2 country code or UN M.49 numeric-3 area code. You can find a full list of valid country and region codes in the IANA Language Subtag Registry (search for &quot;Type: region&quot;). The country (region) field is case insensitive, but &lt;code&gt;Locale&lt;code&gt; always canonicalizes to upper case.&lt;dd&gt;" />
-      <item value="全球" />
-      <item value="eager" />
-      <item value="HIGHEST PRECEDENCE" />
-      <item value="Captcha" />
-      <item value="Data Scope" />
-      <item value="set Expire Time" />
-      <item value="equals" />
-      <item value="run" />
-      <item value="Demo Application" />
       <item value="Stroke" />
       <item value="interaction" />
       <item value="popup" />
@@ -54,6 +18,39 @@
       <item value="from" />
       <item value="introduce" />
       <item value="extract" />
+      <item value="Gets the day-of-the-month, using local time" />
+      <item value="Gets the day of the week using Universal Coordinated Time" />
+      <item value="Gets the day of the week, using local time" />
+      <item value="Gets the hours in a date, using local time." />
+      <item value="instanceof" />
+      <item value="TRANSACTION READ UNCOMMITTED" />
+      <item value="supported" />
+      <item value="transactions" />
+      <item value="indicating" />
+      <item value="constant" />
+      <item value="* A constant indicating that transactions are not supported." />
+      <item value="atomicity" />
+      <item value="concurrency" />
+      <item value="String Buffer" />
+      <item value="interp" />
+      <item value="partially" />
+      <item value="recursively" />
+      <item value="include" />
+      <item value="ballon" />
+      <item value="scope" />
+      <item value="decompiler" />
+      <item value="Fernflower" />
+      <item value="bridge" />
+      <item value="unmarshaler" />
+      <item value="unmarshal" />
+      <item value="create Unmarshaller" />
+      <item value="Unmarshaller" />
+      <item value="Unmar" />
+      <item value="resolve Name" />
+      <item value="Absolute" />
+      <item value="Is Primitive" />
+      <item value="dialect" />
+      <item value="Absent" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,17 +60,9 @@
       </map>
     </option>
   </component>
-  <component name="Cache">
-    <option name="lastTrimTime" value="1636945307963" />
-  </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
+    <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
-    <option name="phoneticFontFamily" value="Consolas" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="75f0051497928dec" />
